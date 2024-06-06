@@ -1,0 +1,15 @@
+{
+  "name": "api-teste",
+  "version": "1.0.0",
+  "description": "API voltada para estudo e como criar uma API",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "node --watch ./src/server.js"
+  },
+  "author": "Gabriel Contesini Torres de Moraes",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.4.1"
+  }
+}
